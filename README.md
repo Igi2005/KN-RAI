@@ -1,7 +1,7 @@
 # KN-RAI
 // ======================
 // OPIS ZMIENNYCH DOTYCZACYCH KOSTKI
-// ==========================================================
+// ======================
 
 // cube.GET_X
 // wspolrzedna X kostki
